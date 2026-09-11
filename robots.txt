@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://groupify.vercel.app/sitemap.xml
+Sitemap: https://gilank-dev.github.io/Groupify/sitemap.xml
