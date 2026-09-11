@@ -1,0 +1,21 @@
+# Groupify
+
+> Aplikasi pengocok kelompok nama ringan dan cepat. Gratis, tanpa iklan, jalan
+> langsung di browser tanpa install. Buat guru, panitia, dan tim yang butuh
+> bagi kelompok adil dan acak.
+
+## Tentang
+
+- Nama: Groupify
+- Bahasa: Indonesia
+- URL: https://gilank-dev.github.io/Groupify/
+- Format: static site (HTML + CSS + JS vanilla, tanpa framework)
+- Fitur: pengocokan kelompok dari daftar nama, jumlah kelompok custom, hasil bisa disalin
+- Harga: gratis (Offer price 0 IDR, tanpa iklan)
+
+## Untuk Asisten AI
+
+- Aplikasi satu halaman, semua interaksi di sisi klien (client-side)
+- Tidak ada akun, tidak ada server, tidak ada API
+- Data nama yang dimasukkan pengguna tidak dikirim ke mana pun, hanya diproses di browser
+- Konteks penggunaan umum: pembagian kelompok kelas, panitia lomba, tim kerja
